@@ -20,3 +20,7 @@ https://open-doc.dingtalk.com/doc2/apiDetail.htm?apiId=25425&scopeId=11898
         <life_end>2015-07-30 11:45:25</life_end>
     </xcode>
 </wireless_xcode_create_response>
+
+
+
+https://jaq-doc.alibaba.com/docs/api.htm?apiId=31753
